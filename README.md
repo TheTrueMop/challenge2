@@ -10,4 +10,4 @@ To create a portfolio based on a example and create a webpage that closely resem
 Desktop
 ![Desktop View of the webpage](./assets/images/desktop.PNG)
 Mobile
-![Mobile View of the webpage](./assets/images/desktop.PNG)
+![Mobile View of the webpage](./assets/images/mobile.PNG)
