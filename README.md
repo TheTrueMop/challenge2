@@ -2,10 +2,10 @@
 
 []()
 
-##Challenge Goal
+## Challenge Goal
 To create a portfolio based on a example and create a webpage that closely resembles that content using my own.
 
-##Preview
+## Preview
 
 Desktop
 ![Desktop View of the webpage](./assets/images/desktop.PNG)
